@@ -37,6 +37,7 @@ analyse-qualite-air-france/
 │   └── dataset_qualite_air_brut.csv    # Jeu de données brut (488 relevés, 17 variables)
 ├── notebooks/
 │   └── analyse_qualite_air.ipynb       # Carnet Jupyter complet (nettoyage, EDA, stats, ML)
-├── .gitignore
-├── requirements.txt
+├── exports/
+│   └── exported_carnet.html
+│   └── exported_carnet.pdf
 └── README.md
